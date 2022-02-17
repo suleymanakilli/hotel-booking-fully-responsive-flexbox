@@ -715,6 +715,10 @@
     font-weight: var(--fw-700);
     justify-self: end;
   }
+  .testimonial .reviewer .review-date{
+    color: var(--clr-neutral-300);
+    font-size: var(--fs-100);
+  }
   .testimonials a span{
     transition: all .5s;
   }
